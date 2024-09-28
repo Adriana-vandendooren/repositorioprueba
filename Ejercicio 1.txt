@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sitio Web de Peliculas</title>
+    <link rel="stylesheet" href="./css/estilos.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="navegacion">
+        </nav>
+    </header>
+    <main id="main" class="main">
+        <section class="sectionPrincipal">
+          <h2>Películas más vistas esta semana</h2>
+        </section>
+        <section class="buscadorPrincipal">
+        </section>
+        <hr>
+        <section class="peliculasTendencia">
+        </section>
+        <hr>
+        <section class="peliculasAclamadas">
+        </section>
+        <section class="peliculasAclamadas">
+        </section>
+    </main>
+    <footer class="footer">
+        <nav class="navegacion">
+        </nav>
+    </footer>
+</body>
+</html>
